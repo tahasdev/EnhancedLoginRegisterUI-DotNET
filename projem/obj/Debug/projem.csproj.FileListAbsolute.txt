@@ -1,0 +1,362 @@
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\projem.exe.config
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\projem.exe
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\projem.pdb
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.anaMenu.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.ayarlar.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.gelir.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.gider.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.girisYap.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.kategori.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.kayitOl.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.parolamiUnuttum.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.rapor.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.exe
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.pdb
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.banka.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.birim.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.odemeSekli.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.odemeTuru.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.genelOzet.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.animsatici.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.not.resources
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.kart.resources
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\Google.Protobuf.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\MySql.Data.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Buffers.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Memory.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\ZstdSharp.dll
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\Google.Protobuf.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\MySql.Data.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Buffers.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Memory.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mert\source\repos\projem\projem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mert\source\repos\projem\projem\obj\Debug\projem.csproj.Up2Date
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\projem.exe.config
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\projem.exe
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\projem.pdb
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\Google.Protobuf.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\MySql.Data.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Buffers.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Memory.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\ZstdSharp.dll
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\Google.Protobuf.pdb
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\Google.Protobuf.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\MySql.Data.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Buffers.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Memory.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.anaMenu.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.animsatici.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.ayarlar.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.banka.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.birim.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.gelir.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.genelOzet.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.gider.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.girisYap.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.kart.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.kategori.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.kayitOl.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.not.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.odemeSekli.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.odemeTuru.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.parolamiUnuttum.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.rapor.resources
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.csproj.Up2Date
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.exe
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.pdb
+C:\Users\90531\Desktop\ASD\C#\muhasebe\projem\obj\Debug\projem.guvenliksorusuekleMenu.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.anaMenu.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.animsatici.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.ayarlar.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.banka.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.birim.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.connection.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.gelir.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.genelOzet.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.gider.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.enter.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.girisYap.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.guvenliksorusuekleMenu.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.kart.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.kategori.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.kayitOl.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.not.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.odemeSekli.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.odemeTuru.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.parolamiUnuttum.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.rapor.resources
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\projem.exe.config
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\projem.exe
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\projem.pdb
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\Google.Protobuf.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\MySql.Data.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Buffers.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Memory.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\ZstdSharp.dll
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\Google.Protobuf.pdb
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\Google.Protobuf.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\MySql.Data.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Buffers.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Memory.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.csproj.Up2Date
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.exe
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.pdb
+C:\Users\emirh\Desktop\muhasebe_24may\projem\obj\Debug\projem.exe.config
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\projem.exe.config
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\projem.exe
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\projem.pdb
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Google.Protobuf.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\MySql.Data.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Buffers.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Memory.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\ZstdSharp.dll
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Google.Protobuf.pdb
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Google.Protobuf.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\MySql.Data.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Buffers.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Memory.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.exe.config
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.anaMenu.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.animsatici.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.ayarlar.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.banka.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.birim.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.connection.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.gelir.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.genelOzet.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.gider.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.enter.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.girisYap.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.guvenliksorusuekleMenu.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.kart.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.kategori.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.kayitOl.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.not.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.odemeSekli.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.odemeTuru.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.parolamiUnuttum.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.rapor.resources
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.Up2Date
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.exe
+C:\Users\emirh\Desktop\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.pdb
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\projem.exe.config
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\projem.exe
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\projem.pdb
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Google.Protobuf.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\MySql.Data.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Buffers.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Memory.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\ZstdSharp.dll
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Google.Protobuf.pdb
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Google.Protobuf.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\MySql.Data.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Buffers.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Memory.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.exe.config
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.anaMenu.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.animsatici.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.ayarlar.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.banka.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.birim.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.connection.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.gelir.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.genelOzet.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.gider.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.enter.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.girisYap.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.guvenliksorusuekleMenu.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.kart.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.kategori.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.kayitOl.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.not.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.odemeSekli.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.odemeTuru.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.parolamiUnuttum.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.rapor.resources
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.csproj.Up2Date
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.exe
+C:\Users\emirh\Desktop\MASAUSTU\C# kisisel muhasebe\muhasebe_24may\projem\obj\Debug\projem.pdb
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.exe.config
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.exe
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.pdb
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.anaMenu.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.ayarlar.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.connection.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.enter.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.girisYap.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.guvenliksorusuekleMenu.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.kayitOl.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.not.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.parolamiUnuttum.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.Properties.Resources.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\projem.exe.config
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\projem.exe
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\projem.pdb
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\Google.Protobuf.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\MySql.Data.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Buffers.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Memory.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\ZstdSharp.dll
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\Google.Protobuf.pdb
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\Google.Protobuf.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\MySql.Data.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Buffers.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Memory.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.csproj.Up2Date
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.Menu1.resources
+C:\Users\emirh\Desktop\EnhancedLoginRegisterUI\projem\obj\Debug\projem.Menu2.resources
